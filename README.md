@@ -42,3 +42,8 @@ The available terms are shown in the table below:
 * finna
 * sip tea
 * L
+
+# Words to add
+1. flava
+2. bussin
+3. slaps
