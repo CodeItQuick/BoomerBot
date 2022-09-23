@@ -10,6 +10,18 @@ TWITCH_OAUTH_TOKEN='oauth:12345abcdefgtopsecret'
 
 This file is gitignored by default.
 
+Get your twitch oauth token from the following website (not managed by me):
+
+https://twitchapps.com/tmi/
+
+#Production (running the program)
+
+Type the following in the console (Windows):
+
+```shell
+C:\node src/auth.js
+```
+
 #Description
 This bot has two commands:
 1. !urban *\<pick from a term from a zoomer dictionary\>*
@@ -20,7 +32,7 @@ The available terms are shown in the table below:
 * glow up
 * ceo
 * eperson
-* w
+* W
 * dank
 * salty
 * big yikes
@@ -29,4 +41,4 @@ The available terms are shown in the table below:
 * high key
 * finna
 * sip tea
-* l
+* L
