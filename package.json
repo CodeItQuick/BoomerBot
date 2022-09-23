@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "handlebars": "^4.0.6",
+    "passport": "^0.3.2",
+    "passport-oauth": "^1.0.0",
+    "request": "^2.81.0",
+    "tmi.js": "^1.8.5",
+    "typescript": "^4.8.3"
+  },
+  "main": "auth.js",
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  }
+}
