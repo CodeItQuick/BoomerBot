@@ -49,4 +49,5 @@ The available terms are shown in the table below:
 3. slaps
 4. peak
 5. fye
+6. cringe
 
