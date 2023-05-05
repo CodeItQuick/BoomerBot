@@ -50,4 +50,4 @@ The available terms are shown in the table below:
 4. peak
 5. fye
 6. cringe
-
+7. out of pocket
