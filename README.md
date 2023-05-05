@@ -47,3 +47,4 @@ The available terms are shown in the table below:
 1. flava
 2. bussin
 3. slaps
+4. peak
