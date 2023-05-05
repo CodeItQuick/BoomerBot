@@ -48,3 +48,5 @@ The available terms are shown in the table below:
 2. bussin
 3. slaps
 4. peak
+5. fye
+
