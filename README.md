@@ -51,4 +51,4 @@ The available terms are shown in the table below:
 5. fye
 6. cringe
 7. out of pocket
-8. based
+8. based  "Another way of claiming that something is factual."
